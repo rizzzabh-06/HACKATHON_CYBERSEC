@@ -1,0 +1,11 @@
+langchain==0.2.5
+langchain-text-splitters==0.2.1
+faiss-cpu
+google-generativeai
+python-dotenv
+docx2txt
+python-multipart
+fastapi>=0.104.1
+uvicorn
+pypdf
+numpy
